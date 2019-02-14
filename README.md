@@ -1,2 +1,8 @@
 # HelloWorld-Unicode
-Using Unicode to create a hello world app 
+## Technology Used
+* jGrasp IDE
+
+## Summary
+* Using unicode to create Hello World app .
+* Placed Unicode into string variables and then println to produce output in console .
+
